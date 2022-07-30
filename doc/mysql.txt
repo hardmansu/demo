@@ -2,6 +2,7 @@
 https://www.jb51.net/article/250949.htm
 
 user/pwd root/suhaizong12345
+mysql -uroot -p suhaizong12345  登陆
 
 sc delete mysql命令卸载服务
 net start mysql
