@@ -1,2 +1,7 @@
 安装详情：https://www.jb51.net/article/250952.htm
 user/pwd root/suhaizong12345
+
+sc delete mysql命令卸载服务
+net start mysql
+net stop mysql
+set password for root@localhost = '新密码';
