@@ -2,7 +2,14 @@
 https://www.jb51.net/article/250949.htm
 
 user/pwd root/suhaizong12345
-mysql -uroot -p suhaizong12345  登陆
+mysql -uroot -p 
+suhaizong12345  登陆
+
+mysql查询所有数据库的方法：
+1、使用MySQL客户端登录到MySQL数据库服务器；
+2、直接执行“SHOW DATABASES;”或“SHOW SCHEMAS;”命令即可列出所有数据库。
+
+HeidiSQL,下载地址是http://www.heidisql.com/download.php
 
 sc delete mysql命令卸载服务
 net start mysql
